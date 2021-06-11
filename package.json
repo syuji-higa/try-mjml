@@ -7,5 +7,8 @@
   "dependencies": {
     "mjml": "^4.9.3",
     "mustache": "^4.2.0"
+  },
+  "scripts": {
+    "build": "node index.mjs"
   }
 }
