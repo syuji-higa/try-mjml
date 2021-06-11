@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Syuji Higa <syuji.higa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mjml": "^4.9.3",
+    "mustache": "^4.2.0"
+  }
 }
